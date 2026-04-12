@@ -1,4 +1,4 @@
-# ☕ SQL Project: Monday Coffee Data Analysis  
+# ☕Customer Revenue & Retention Analysis – SQL (Coffee Sales Analysis) 
 
 ## 📌 Objective  
 The goal of this project is to analyze **Monday Coffee’s sales data** (an online coffee seller operating since January 2023) and recommend the **top three major cities in India** for opening new physical coffee shop locations. The analysis focuses on **consumer demand, sales performance, and customer behavior**.  
